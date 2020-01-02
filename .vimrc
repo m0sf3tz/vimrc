@@ -18,6 +18,7 @@ nmap <F3><up> :wincmd k <CR>
 nmap <F3><right> :wincmd l <CR>
 nmap <F3><left> :wincmd h <CR>
 nmap <F3><Space> :q <CR>
+nmap <F3><Space> :only <CR>
 
 nmap <F4><right> :vsp <CR>
 nmap <F4><down> :sp <CR>
